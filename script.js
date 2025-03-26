@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   const artistsData = [
-      { name: 'Henrique & Juliano', image: './img/album-mcig.jpg' },
+      { name: 'Mc ig', image: './img/artista-mcigg.jpg' },
       { name: 'Jorge & Mateus', image: './img/artista-jorge-mateus.jpg' },
       { name: 'Zé Neto & Cristiano', image: './img/artista-ze-neto.jpg' },
       { name: 'Mc Cebezinho', image: './img/artista-cebezinho.jpg' },
@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
   ];
 
   const albumsData = [
-      { name: 'MODO MC IG NINGUÉM TA PURO', artist: 'MC IG', image: './img/album-mcig.jpg' },
+      { name: 'MODO MC IG NINGUÉM TA PURO', artist: 'MC IG', image: './img/album-mcig.jpg'},
       { name: 'A NATA DE TUDO - A OVELHA NEGRA', artist: 'MC NEGÃO ORIGINAL', image: './img/album-negao-original.jpg' },
       { name: 'PAGODE DO PERICÃO II, PT.1 (AO VIVO)', artist: 'Péricles', image: './img/album-pericles.jpg' },
       { name: 'VOU QUERER DE NOVO (AO VIVO)', artist: 'THIAGUINHO', image: './img/album-thiaguinho.jpg' },
